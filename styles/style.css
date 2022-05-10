@@ -1,0 +1,29 @@
+html {
+    font-size: 10px;
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+    background-color: rgb(247, 237, 229);
+}
+
+body{
+    width: 60%;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    border: 5px solid white;
+}
+
+p,ul{
+    font-size: 16px;
+    letter-spacing: 1px;
+    line-height: 2;
+}
+
+li{
+    text-align: left;
+}
+
+img{
+    display: block;
+    width: 50%;  
+    margin: auto;
+}
